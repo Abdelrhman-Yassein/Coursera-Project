@@ -1,0 +1,14 @@
+Course Structure
+This course is divided into 3 parts:
+
+Course Overview: This introductory reading material.
+PythonImage: This is the hands on project that we will work on in Rhyme.
+Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands on project in Image Processing with Python is divided into following tasks:
+
+Task 1: Read Image
+Task 2: Resize Image
+Task 3: Blur Image
+Task 4: Sharpen Image
+Task 5: Batch Process Images

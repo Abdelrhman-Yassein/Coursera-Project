@@ -1,0 +1,38 @@
+[
+    {
+        "label": "show_menu",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')\n    print('4. Exit')\nwhile user_input != '4':",
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nfrom app import show_menu\n```\n\n```python\n\n\n```\n\n```python\ndef show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')\n    print('4. Exit')\nwhile user_input != '4':\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "user_input",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "user_input = 'random'\ndata = []  # data user Will add\ndef show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')",
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nfrom app import user_input\n```\n\n```python\n\n\n```\n\n```python\nuser_input = 'random'\ndata = []  # data user Will add\ndef show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "data = []  # data user Will add\ndef show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')\n    print('4. Exit')",
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nfrom app import data\n```\n\n```python\n\n\n```\n\n```python\ndata = []  # data user Will add\ndef show_menu():\n    \"\"\"\n    Menu Option\n    \"\"\"\n    print('MENU:')\n    print('1. Add an item')\n    print('2. Mark as Done ')\n    print('3. VIew Items')\n    print('4. Exit')\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]

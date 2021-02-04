@@ -1,0 +1,12 @@
+Project Structure
+The hands on project on Build a Python GUI with Tkinter is divided into following tasks:
+
+Task 1: Inherit from the Frame class to create the Application Window.
+
+Task 2: Create a method to add the Window frame title and add the Labels to the grid.
+
+Task 3: Use Entry Widgets to allow the user to enter a filename and X and Y Coordinates. Add Text Widgets for displaying statistics.
+
+Task 4: Add buttons and styling to allow users to graph and display statistics.
+
+Task 5: Create button event handlers and retrieve and set data using widget methods.

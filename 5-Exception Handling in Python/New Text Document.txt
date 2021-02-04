@@ -1,0 +1,31 @@
+Welcome!
+Welcome to Exception Handling in Python. This is a project-based course which should take approximately 2 hours to finish. Before diving into the project, please take a look at the course objectives and structure
+
+Course Objectives
+In this course, we are going to focus on five learning objectives.
+
+1. You will be able to understand the difference between an exception and syntax errors
+
+2. You will demonstrate raising an exception. 
+
+3. You will be able to understand assertion error exceptions.
+
+4. You will be able to demonstrate try, except and else clauses.
+
+5. You will be able to implement a finally clause and clean-up actions.
+
+Course Structure
+This course is divided into 3 parts
+
+Course Overview This introductory reading material.
+Exception Handling in Python This is the hands-on project that we will work on in Rhyme.
+Graded Quiz This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands on project on Exception Handling in Python is divided into following tasks
+
+Task 1 Understand the differences between syntax error and exceptions.
+Task 2 Raising an exception.
+Task 3 Understand AssertionError exceptions
+Task 4 Implement try, except and else clause.
+Task 5 Implement a finally clause and clean-up actions.
+Meet the Instructor

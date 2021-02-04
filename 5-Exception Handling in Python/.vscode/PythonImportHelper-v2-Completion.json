@@ -1,0 +1,14 @@
+[
+    {
+        "label": "print_age",
+        "kind": 2,
+        "importPath": "exception",
+        "description": "exception",
+        "peekOfCode": "def print_age(age):\n    assert age > 0,\"The value of age muest be  Grearer Than 0\"\n    print(\"your age is \",str(age))\nprint_age(0)",
+        "detail": "exception",
+        "documentation": {
+            "value": "\n```python\nfrom exception import print_age\n```\n\n```python\n\n\n```\n\n```python\ndef print_age(age):\n    assert age > 0,\"The value of age muest be  Grearer Than 0\"\n    print(\"your age is \",str(age))\nprint_age(0)\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
